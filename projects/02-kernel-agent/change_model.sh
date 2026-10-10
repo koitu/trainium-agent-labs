@@ -1,0 +1,1 @@
+export KERNEL_AGENT_MODEL="qwen/qwen3.8-27b"
